@@ -1,0 +1,113 @@
+2022/06/12 16:13:17 - simulation time       0 (s) : ComputingNodesGenerator- Edge device:0    location: ( 19.0,80.0 )
+2022/06/12 16:13:17 - simulation time       0 (s) : ComputingNodesGenerator- Edge device:1    location: ( 41.0,65.0 )
+2022/06/12 16:13:17 - simulation time       0 (s) : ComputingNodesGenerator- Edge device:2    location: ( 66.0,36.0 )
+2022/06/12 16:13:17 - simulation time       0 (s) : ComputingNodesGenerator- Edge device:3    location: ( 24.0,30.0 )
+2022/06/12 16:13:17 - simulation time       0 (s) : ComputingNodesGenerator- Edge device:4    location: ( 30.0,7.0 )
+2022/06/12 16:13:17 - simulation time       0 (s) : ComputingNodesGenerator- Edge device:5    location: ( 45.0,30.0 )
+2022/06/12 16:13:17 - simulation time       0 (s) : ComputingNodesGenerator- Edge device:6    location: ( 24.0,71.0 )
+2022/06/12 16:13:17 - simulation time       0 (s) : ComputingNodesGenerator- Edge device:7    location: ( 94.0,40.0 )
+2022/06/12 16:13:17 - simulation time       0 (s) : ComputingNodesGenerator- Edge device:8    location: ( 18.0,66.0 )
+2022/06/12 16:13:17 - simulation time       0 (s) : ComputingNodesGenerator- Edge device:9    location: ( 47.0,40.0 )
+2022/06/12 16:13:17 - simulation time       0 (s) : ComputingNodesGenerator- Edge device:10    location: ( 51.0,94.0 )
+2022/06/12 16:13:17 - simulation time       0 (s) : ComputingNodesGenerator- Edge device:11    location: ( 91.0,75.0 )
+2022/06/12 16:13:17 - simulation time       0 (s) : ComputingNodesGenerator- Edge device:12    location: ( 49.0,96.0 )
+2022/06/12 16:13:17 - simulation time       0 (s) : ComputingNodesGenerator- Edge device:13    location: ( 77.0,49.0 )
+2022/06/12 16:13:17 - simulation time       0 (s) : ComputingNodesGenerator- Edge device:14    location: ( 2.0,85.0 )
+2022/06/12 16:13:17 - simulation time       0 (s) : ComputingNodesGenerator- Edge device:15    location: ( 71.0,79.0 )
+2022/06/12 16:13:17 - simulation time       0 (s) : ComputingNodesGenerator- Edge device:16    location: ( 28.0,65.0 )
+2022/06/12 16:13:17 - simulation time       0 (s) : ComputingNodesGenerator- Edge device:17    location: ( 35.0,54.0 )
+2022/06/12 16:13:17 - simulation time       0 (s) : ComputingNodesGenerator- Edge device:18    location: ( 67.0,65.0 )
+2022/06/12 16:13:17 - simulation time       0 (s) : ComputingNodesGenerator- Edge device:19    location: ( 87.0,33.0 )
+2022/06/12 16:13:17 - simulation time       0 (s) : ComputingNodesGenerator- Edge device:20    location: ( 35.0,57.0 )
+2022/06/12 16:13:17 - simulation time       0 (s) : ComputingNodesGenerator- Edge device:21    location: ( 13.0,22.0 )
+2022/06/12 16:13:17 - simulation time       0 (s) : ComputingNodesGenerator- Edge device:22    location: ( 42.0,18.0 )
+2022/06/12 16:13:17 - simulation time       0 (s) : ComputingNodesGenerator- Edge device:23    location: ( 86.0,19.0 )
+2022/06/12 16:13:17 - simulation time       0 (s) : ComputingNodesGenerator- Edge device:24    location: ( 32.0,92.0 )
+2022/06/12 16:13:17 - simulation time       0 (s) : ComputingNodesGenerator - Wrong percentages values (the sum is inferior than 100%), check edge_devices.xml file !
+2022/06/12 16:13:17 - simulation time       0 (s) : ComputingNodesGenerator- Edge device:25    location: ( 93.0,52.0 )
+2022/06/12 16:13:17 - simulation time       0 (s) : ComputingNodesGenerator- Edge device:26    location: ( 60.0,1.0 )
+2022/06/12 16:13:17 - simulation time       0 (s) : ComputingNodesGenerator - Datacenters and devices were generated
+2022/06/12 16:13:17 - simulation time       0 (s) : SimulationManager- Submitting VM list to the broker
+2022/06/12 16:13:18 - simulation time       0 (s) : BasicTasksGenerator, Task 0 with execution time 68 (s) generated.
+2022/06/12 16:13:18 - simulation time       0 (s) : BasicTasksGenerator, Task 1 with execution time 67 (s) generated.
+2022/06/12 16:13:18 - simulation time       0 (s) : BasicTasksGenerator, Task 2 with execution time 64 (s) generated.
+2022/06/12 16:13:18 - simulation time       0 (s) : BasicTasksGenerator, Task 3 with execution time 61 (s) generated.
+2022/06/12 16:13:18 - simulation time       0 (s) : BasicTasksGenerator, Task 4 with execution time 74 (s) generated.
+2022/06/12 16:13:18 - simulation time       0 (s) : BasicTasksGenerator, Task 5 with execution time 65 (s) generated.
+2022/06/12 16:13:18 - simulation time       0 (s) : BasicTasksGenerator, Task 6 with execution time 68 (s) generated.
+2022/06/12 16:13:18 - simulation time       0 (s) : BasicTasksGenerator, Task 7 with execution time 65 (s) generated.
+2022/06/12 16:13:18 - simulation time       0 (s) : BasicTasksGenerator, Task 8 with execution time 74 (s) generated.
+2022/06/12 16:13:18 - simulation time       0 (s) : BasicTasksGenerator, Task 9 with execution time 60 (s) generated.
+2022/06/12 16:13:18 - simulation time       0 (s) : BasicTasksGenerator, Task 10 with execution time 64 (s) generated.
+2022/06/12 16:13:18 - simulation time       0 (s) : BasicTasksGenerator, Task 11 with execution time 67 (s) generated.
+2022/06/12 16:13:18 - simulation time       0 (s) : BasicTasksGenerator, Task 12 with execution time 64 (s) generated.
+2022/06/12 16:13:18 - simulation time       0 (s) : BasicTasksGenerator, Task 13 with execution time 69 (s) generated.
+2022/06/12 16:13:18 - simulation time       0 (s) : BasicTasksGenerator, Task 14 with execution time 65 (s) generated.
+2022/06/12 16:13:18 - simulation time       0 (s) : BasicTasksGenerator, Task 15 with execution time 71 (s) generated.
+2022/06/12 16:13:18 - simulation time       0 (s) : BasicTasksGenerator, Task 16 with execution time 72 (s) generated.
+2022/06/12 16:13:18 - simulation time       0 (s) : BasicTasksGenerator, Task 17 with execution time 70 (s) generated.
+2022/06/12 16:13:18 - simulation time       0 (s) : BasicTasksGenerator, Task 18 with execution time 65 (s) generated.
+2022/06/12 16:13:18 - simulation time       0 (s) : BasicTasksGenerator, Task 19 with execution time 72 (s) generated.
+2022/06/12 16:13:18 - simulation time       0 (s) : SimulationManager -  Orchestration algorithm= PROJECT_BPSO -  Architecture= EDGE_ONLY -  number of edge devices= 27
+2022/06/12 16:13:18 - simulation time       0 (s) : SimulationManager - Simulation: 1  , iteration: 1
+2022/06/12 16:13:18 - simulation time   60.06 (s) : 60.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 9 assigned to EDGE_DATACENTER vm: 3
+2022/06/12 16:13:18 - simulation time   61.06 (s) : 61.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 3 assigned to EDGE_DATACENTER vm: 3
+2022/06/12 16:13:18 - simulation time   64.06 (s) : 64.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 10 assigned to EDGE_DATACENTER vm: 2
+2022/06/12 16:13:18 - simulation time   65.06 (s) : 65.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 12 assigned to EDGE_DATACENTER vm: 2
+2022/06/12 16:13:18 - simulation time   65.06 (s) : 65.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 5 assigned to EDGE_DATACENTER vm: 3
+2022/06/12 16:13:18 - simulation time   65.06 (s) : 65.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 7 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 16:13:18 - simulation time   66.06 (s) : 66.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 2 assigned to EDGE_DATACENTER vm: 3
+2022/06/12 16:13:18 - simulation time   66.06 (s) : 66.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 14 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 16:13:18 - simulation time   67.06 (s) : 67.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 18 assigned to EDGE_DATACENTER vm: 3
+2022/06/12 16:13:18 - simulation time   67.06 (s) : 67.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 1 assigned to EDGE_DATACENTER vm: 2
+2022/06/12 16:13:18 - simulation time   68.06 (s) : 68.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 11 assigned to EDGE_DATACENTER vm: 3
+2022/06/12 16:13:18 - simulation time   68.06 (s) : 68.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 0 assigned to EDGE_DATACENTER vm: 3
+2022/06/12 16:13:18 - simulation time   69.06 (s) : 69.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 6 assigned to EDGE_DATACENTER vm: 2
+2022/06/12 16:13:18 - simulation time   69.06 (s) : 69.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 13 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 16:13:18 - simulation time   70.06 (s) : 70.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 17 assigned to EDGE_DATACENTER vm: 3
+2022/06/12 16:13:18 - simulation time   71.06 (s) : 71.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 15 assigned to EDGE_DATACENTER vm: 2
+2022/06/12 16:13:18 - simulation time   72.06 (s) : 72.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 19 assigned to EDGE_DATACENTER vm: 2
+2022/06/12 16:13:18 - simulation time   74.06 (s) : 74.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 16 assigned to EDGE_DATACENTER vm: 3
+2022/06/12 16:13:18 - simulation time   74.06 (s) : 74.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 4 assigned to EDGE_DATACENTER vm: 3
+2022/06/12 16:13:18 - simulation time   76.06 (s) : 76.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 8 assigned to EDGE_DATACENTER vm: 2
+2022/06/12 16:13:25 - simulation time    3600 (s) : SimLog - Printing iteration output...
+2022/06/12 16:13:25 - simulation time    3600 (s) : ------------------------------------------------------- OUTPUT -------------------------------------------------------
+2022/06/12 16:13:25 - simulation time    3600 (s) : 
+2022/06/12 16:13:25 - simulation time    3600 (s) : Tasks not sent because device died (low energy)                         :                   0 % (0 tasks)
+2022/06/12 16:13:25 - simulation time    3600 (s) : Tasks sent from edge devices                                            :                 100 % (20 among 20 generated tasks)
+2022/06/12 16:13:25 - simulation time    3600 (s) : -------------------------------------All values below are based on the sent tasks-------------------------------------
+2022/06/12 16:13:25 - simulation time    3600 (s) : Total tasks execution time                                              :             31.9143 seconds
+2022/06/12 16:13:25 - simulation time    3600 (s) : Average task execution time                                             :              1.5957 seconds
+2022/06/12 16:13:25 - simulation time    3600 (s) : Total waiting time (from submitting the tasks to when execution started):                   0 seconds
+2022/06/12 16:13:25 - simulation time    3600 (s) : Average task waiting time                                               :                   0 seconds
+2022/06/12 16:13:25 - simulation time    3600 (s) : Tasks successfully executed                                             :                 100 % (20 among 20 sent tasks)
+2022/06/12 16:13:25 - simulation time    3600 (s) : Tasks failures
+2022/06/12 16:13:25 - simulation time    3600 (s) :                               Not executed due to resource unavailablity:                   0 % (0 tasks)
+2022/06/12 16:13:25 - simulation time    3600 (s) :                                    Executed but failed due to high delay:                   0 % (0 tasks from 20 successfully sent tasks)
+2022/06/12 16:13:25 - simulation time    3600 (s) :                Tasks execution results not returned due to devices death:                   0 % (0 tasks)
+2022/06/12 16:13:25 - simulation time    3600 (s) :             Tasks execution results not returned due to devices mobility:                   0 % (0 tasks)
+2022/06/12 16:13:25 - simulation time    3600 (s) : Tasks executed on each level                                            :Cloud=             0 tasks (where 0 were successfully executed )
+2022/06/12 16:13:25 - simulation time    3600 (s) :                                                                           Edge=            20 tasks (where 20 were successfully executed )
+2022/06/12 16:13:25 - simulation time    3600 (s) :                                                                           Mist=             0 tasks (where 0 were successfully executed )
+2022/06/12 16:13:25 - simulation time    3600 (s) : Network usage                                                           :              8.4618 seconds (The total traffic: 175.2 (MBytes) )
+2022/06/12 16:13:25 - simulation time    3600 (s) :                                                                            Wan=        7.7626 seconds (91.7369 % of total usage, WAN used when downloading containers=0 % of WAN usage )
+2022/06/12 16:13:25 - simulation time    3600 (s) :                                                                            Man=        0.6992 seconds (8.2631 % of total usage, MAN used when downloading containers=0 % of MAN usage )
+2022/06/12 16:13:25 - simulation time    3600 (s) :                                                                            Lan=             0 seconds (0 % of total usage, LAN used when downloading containers=NaN % of LAN usage )
+2022/06/12 16:13:25 - simulation time    3600 (s) : Average transfer speed                                                  :            419.5863 Mbps  
+2022/06/12 16:13:25 - simulation time    3600 (s) : Average CPU utilization                                                 :              0.0071 %
+2022/06/12 16:13:25 - simulation time    3600 (s) : Average CPU utilization per level                                       :Cloud=             0 %
+2022/06/12 16:13:25 - simulation time    3600 (s) :                                                                           Edge=        0.0731 %
+2022/06/12 16:13:25 - simulation time    3600 (s) :                                                                           Mist=             0 %
+2022/06/12 16:13:25 - simulation time    3600 (s) : Energy consumption                                                      :            163.2237 Wh (Average: 5.2653 Wh/data center(or device))
+2022/06/12 16:13:25 - simulation time    3600 (s) :                                                                         :                        (Average: 8.1612 Wh/task)
+2022/06/12 16:13:25 - simulation time    3600 (s) : Energy Consumption per level                                            :Cloud=             0 Wh (Average: 0 Wh/data center)
+2022/06/12 16:13:25 - simulation time    3600 (s) :                                                                           Edge=      150.8865 Wh (Average: 50.2955 Wh/data center)
+2022/06/12 16:13:25 - simulation time    3600 (s) :                                                                           Mist=       12.3372 Wh (Average: 0.4569 Wh/edge device)
+2022/06/12 16:13:25 - simulation time    3600 (s) : Energy Consumption per network                                          :  WAN=        2.4358 Wh
+2022/06/12 16:13:25 - simulation time    3600 (s) :                                                                            MAN=             0 Wh 
+2022/06/12 16:13:25 - simulation time    3600 (s) :                                                                            LAN=             0 Wh 
+2022/06/12 16:13:25 - simulation time    3600 (s) : Energy Consumption per technology                                       : WiFi=        0.0403 Wh
+2022/06/12 16:13:25 - simulation time    3600 (s) :                                                                       Cellular=        2.3864 Wh 
+2022/06/12 16:13:25 - simulation time    3600 (s) :                                                                       Ethernet=             0 Wh 
+2022/06/12 16:13:25 - simulation time    3600 (s) : Dead edge devices due to battery drain                                  :                   0 devices (Among 13 devices with batteries (0 %))
+2022/06/12 16:13:25 - simulation time    3600 (s) : Average remaining power (devices with batteries that are still alive)   :             32.4509 Wh (Average: 98.5746 %)

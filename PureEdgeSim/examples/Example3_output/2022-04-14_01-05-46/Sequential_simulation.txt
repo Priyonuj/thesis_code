@@ -1,0 +1,45 @@
+2022/04/14 01:05:46 - simulation time       0 (s) : ComputingNodesGenerator - Wrong percentages values (the sum is inferior than 100%), check edge_devices.xml file !
+2022/04/14 01:05:46 - simulation time       0 (s) : ComputingNodesGenerator - Datacenters and devices were generated
+2022/04/14 01:05:46 - simulation time       0 (s) : SimulationManager -  Orchestration algorithm= ROUND_ROBIN -  Architecture= EDGE_AND_CLOUD -  number of edge devices= 5
+2022/04/14 01:05:46 - simulation time       0 (s) : SimulationManager - Simulation: 1  , iteration: 1
+2022/04/14 01:05:48 - simulation time     620 (s) : SimLog - Printing iteration output...
+2022/04/14 01:05:48 - simulation time     620 (s) : ------------------------------------------------------- OUTPUT -------------------------------------------------------
+2022/04/14 01:05:48 - simulation time     620 (s) : 
+2022/04/14 01:05:48 - simulation time     620 (s) : Tasks not sent because device died (low energy)                         :                   0 % (0 tasks)
+2022/04/14 01:05:48 - simulation time     620 (s) : Tasks sent from edge devices                                            :                 100 % (400 among 400 generated tasks)
+2022/04/14 01:05:48 - simulation time     620 (s) : -------------------------------------All values below are based on the sent tasks-------------------------------------
+2022/04/14 01:05:48 - simulation time     620 (s) : Total tasks execution time                                              :              89.625 seconds
+2022/04/14 01:05:48 - simulation time     620 (s) : Average task execution time                                             :               0.375 seconds
+2022/04/14 01:05:48 - simulation time     620 (s) : Total waiting time (from submitting the tasks to when execution started):                   0 seconds
+2022/04/14 01:05:48 - simulation time     620 (s) : Average task waiting time                                               :                   0 seconds
+2022/04/14 01:05:48 - simulation time     620 (s) : Tasks successfully executed                                             :               59.75 % (239 among 400 sent tasks)
+2022/04/14 01:05:48 - simulation time     620 (s) : Tasks failures
+2022/04/14 01:05:48 - simulation time     620 (s) :                               Not executed due to resource unavailablity:                   0 % (0 tasks)
+2022/04/14 01:05:48 - simulation time     620 (s) :                                    Executed but failed due to high delay:                   0 % (0 tasks from 400 successfully sent tasks)
+2022/04/14 01:05:48 - simulation time     620 (s) :                Tasks execution results not returned due to devices death:                   0 % (0 tasks)
+2022/04/14 01:05:48 - simulation time     620 (s) :             Tasks execution results not returned due to devices mobility:               40.25 % (161 tasks)
+2022/04/14 01:05:48 - simulation time     620 (s) : Tasks executed on each level                                            :Cloud=           120 tasks (where 120 were successfully executed )
+2022/04/14 01:05:48 - simulation time     620 (s) :                                                                           Edge=           280 tasks (where 119 were successfully executed )
+2022/04/14 01:05:48 - simulation time     620 (s) :                                                                           Mist=             0 tasks (where 0 were successfully executed )
+2022/04/14 01:05:48 - simulation time     620 (s) : Network usage                                                           :                2061 seconds (The total traffic: 62 (MBytes) )
+2022/04/14 01:05:48 - simulation time     620 (s) :                                                                            Wan=           680 seconds (32.9937 % of total usage, WAN used when downloading containers=0 % of WAN usage )
+2022/04/14 01:05:48 - simulation time     620 (s) :                                                                            Man=           302 seconds (14.6531 % of total usage, MAN used when downloading containers=0 % of MAN usage )
+2022/04/14 01:05:48 - simulation time     620 (s) :                                                                            Lan=          1079 seconds (52.3532 % of total usage, LAN used when downloading containers=0 % of LAN usage )
+2022/04/14 01:05:48 - simulation time     620 (s) : Average transfer speed                                                  :           1185.7056 Mbps  
+2022/04/14 01:05:48 - simulation time     620 (s) : Average CPU utilization                                                 :              0.0945 %
+2022/04/14 01:05:48 - simulation time     620 (s) : Average CPU utilization per level                                       :Cloud=        0.0363 %
+2022/04/14 01:05:48 - simulation time     620 (s) :                                                                           Edge=         0.144 %
+2022/04/14 01:05:48 - simulation time     620 (s) :                                                                           Mist=             0 %
+2022/04/14 01:05:48 - simulation time     620 (s) : Energy consumption                                                      :            159.9126 Wh (Average: 14.5375 Wh/data center(or device))
+2022/04/14 01:05:48 - simulation time     620 (s) :                                                                         :                        (Average: 0.6691 Wh/task)
+2022/04/14 01:05:48 - simulation time     620 (s) : Energy Consumption per level                                            :Cloud=          72.2 Wh (Average: 72.2 Wh/data center)
+2022/04/14 01:05:48 - simulation time     620 (s) :                                                                           Edge=       86.7309 Wh (Average: 17.3462 Wh/data center)
+2022/04/14 01:05:48 - simulation time     620 (s) :                                                                           Mist=        0.9817 Wh (Average: 0.1963 Wh/edge device)
+2022/04/14 01:05:48 - simulation time     620 (s) : Energy Consumption per network                                          :  WAN=        0.2241 Wh
+2022/04/14 01:05:48 - simulation time     620 (s) :                                                                            MAN=             0 Wh 
+2022/04/14 01:05:48 - simulation time     620 (s) :                                                                            LAN=        0.4397 Wh 
+2022/04/14 01:05:48 - simulation time     620 (s) : Energy Consumption per technology                                       : WiFi=        0.0434 Wh
+2022/04/14 01:05:48 - simulation time     620 (s) :                                                                       Cellular=        0.6192 Wh 
+2022/04/14 01:05:48 - simulation time     620 (s) :                                                                       Ethernet=             0 Wh 
+2022/04/14 01:05:48 - simulation time     620 (s) : Dead edge devices due to battery drain                                  :                   0 devices (Among 2 devices with batteries (0 %))
+2022/04/14 01:05:48 - simulation time     620 (s) : Average remaining power (devices with batteries that are still alive)   :             37.2405 Wh (Average: 99.2696 %)

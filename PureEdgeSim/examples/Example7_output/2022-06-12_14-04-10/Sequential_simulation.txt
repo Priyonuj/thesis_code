@@ -1,0 +1,654 @@
+2022/06/12 14:04:10 - simulation time       0 (s) : ComputingNodesGenerator- Edge device:0    location: ( 84.0,37.0 )
+2022/06/12 14:04:10 - simulation time       0 (s) : ComputingNodesGenerator- Edge device:1    location: ( 14.0,52.0 )
+2022/06/12 14:04:10 - simulation time       0 (s) : ComputingNodesGenerator- Edge device:2    location: ( 67.0,82.0 )
+2022/06/12 14:04:10 - simulation time       0 (s) : ComputingNodesGenerator- Edge device:3    location: ( 14.0,83.0 )
+2022/06/12 14:04:10 - simulation time       0 (s) : ComputingNodesGenerator- Edge device:4    location: ( 72.0,51.0 )
+2022/06/12 14:04:10 - simulation time       0 (s) : ComputingNodesGenerator- Edge device:5    location: ( 29.0,15.0 )
+2022/06/12 14:04:10 - simulation time       0 (s) : ComputingNodesGenerator- Edge device:6    location: ( 51.0,21.0 )
+2022/06/12 14:04:10 - simulation time       0 (s) : ComputingNodesGenerator- Edge device:7    location: ( 61.0,5.0 )
+2022/06/12 14:04:10 - simulation time       0 (s) : ComputingNodesGenerator- Edge device:8    location: ( 52.0,72.0 )
+2022/06/12 14:04:10 - simulation time       0 (s) : ComputingNodesGenerator- Edge device:9    location: ( 69.0,24.0 )
+2022/06/12 14:04:10 - simulation time       0 (s) : ComputingNodesGenerator - Datacenters and devices were generated
+2022/06/12 14:04:10 - simulation time       0 (s) : SimulationManager- Submitting VM list to the broker
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 0 with execution time 66 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 1 with execution time 122 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 2 with execution time 187 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 3 with execution time 240 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 4 with execution time 304 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 5 with execution time 369 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 6 with execution time 420 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 7 with execution time 484 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 8 with execution time 550 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 9 with execution time 612 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 10 with execution time 666 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 11 with execution time 723 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 12 with execution time 789 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 13 with execution time 848 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 14 with execution time 905 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 15 with execution time 967 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 16 with execution time 1032 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 17 with execution time 1090 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 18 with execution time 1148 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 19 with execution time 1201 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 20 with execution time 1269 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 21 with execution time 1328 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 22 with execution time 1389 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 23 with execution time 1440 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 24 with execution time 1509 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 25 with execution time 1560 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 26 with execution time 1627 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 27 with execution time 1689 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 28 with execution time 1749 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 29 with execution time 1804 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 30 with execution time 1860 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 31 with execution time 1924 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 32 with execution time 1992 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 33 with execution time 2049 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 34 with execution time 2109 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 35 with execution time 2161 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 36 with execution time 2233 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 37 with execution time 2286 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 38 with execution time 2341 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 39 with execution time 2406 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 40 with execution time 2473 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 41 with execution time 2525 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 42 with execution time 2593 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 43 with execution time 2646 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 44 with execution time 2703 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 45 with execution time 2767 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 46 with execution time 2821 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 47 with execution time 2887 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 48 with execution time 2947 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 49 with execution time 3010 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 50 with execution time 3066 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 51 with execution time 3130 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 52 with execution time 3183 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 53 with execution time 3244 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 54 with execution time 3307 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 55 with execution time 3366 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 56 with execution time 3433 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 57 with execution time 3483 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 58 with execution time 3545 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 59 with execution time 3612 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 60 with execution time 73 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 61 with execution time 133 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 62 with execution time 181 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 63 with execution time 252 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 64 with execution time 301 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 65 with execution time 361 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 66 with execution time 420 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 67 with execution time 490 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 68 with execution time 547 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 69 with execution time 608 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 70 with execution time 670 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 71 with execution time 726 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 72 with execution time 792 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 73 with execution time 847 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 74 with execution time 906 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 75 with execution time 961 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 76 with execution time 1023 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 77 with execution time 1094 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 78 with execution time 1144 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 79 with execution time 1214 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 80 with execution time 1263 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 81 with execution time 1324 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 82 with execution time 1383 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 83 with execution time 1445 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 84 with execution time 1507 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 85 with execution time 1571 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 86 with execution time 1634 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 87 with execution time 1693 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 88 with execution time 1751 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 89 with execution time 1801 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 90 with execution time 1861 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 91 with execution time 1932 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 92 with execution time 1986 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 93 with execution time 2051 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 94 with execution time 2102 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 95 with execution time 2173 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 96 with execution time 2233 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 97 with execution time 2293 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 98 with execution time 2343 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 99 with execution time 2405 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 100 with execution time 2469 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 101 with execution time 2530 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 102 with execution time 2583 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 103 with execution time 2640 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 104 with execution time 2714 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 105 with execution time 2773 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 106 with execution time 2824 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 107 with execution time 2882 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 108 with execution time 2952 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 109 with execution time 3007 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 110 with execution time 3068 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 111 with execution time 3132 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 112 with execution time 3191 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 113 with execution time 3252 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 114 with execution time 3303 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 115 with execution time 3371 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 116 with execution time 3423 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 117 with execution time 3482 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 118 with execution time 3542 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 119 with execution time 3612 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 120 with execution time 70 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 121 with execution time 134 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 122 with execution time 184 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 123 with execution time 243 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 124 with execution time 306 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 125 with execution time 368 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 126 with execution time 434 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 127 with execution time 489 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 128 with execution time 545 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 129 with execution time 602 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 130 with execution time 671 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 131 with execution time 726 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 132 with execution time 787 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 133 with execution time 844 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 134 with execution time 900 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 135 with execution time 966 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 136 with execution time 1033 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 137 with execution time 1082 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 138 with execution time 1146 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 139 with execution time 1201 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 140 with execution time 1271 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 141 with execution time 1328 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 142 with execution time 1381 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 143 with execution time 1442 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 144 with execution time 1510 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 145 with execution time 1566 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 146 with execution time 1628 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 147 with execution time 1686 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 148 with execution time 1748 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 149 with execution time 1809 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 150 with execution time 1866 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 151 with execution time 1924 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 152 with execution time 1992 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 153 with execution time 2044 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 154 with execution time 2102 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 155 with execution time 2174 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 156 with execution time 2227 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 157 with execution time 2291 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 158 with execution time 2343 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 159 with execution time 2413 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 160 with execution time 2462 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 161 with execution time 2532 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 162 with execution time 2584 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 163 with execution time 2654 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 164 with execution time 2703 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 165 with execution time 2769 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 166 with execution time 2824 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 167 with execution time 2888 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 168 with execution time 2948 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 169 with execution time 3006 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 170 with execution time 3063 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 171 with execution time 3123 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 172 with execution time 3186 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 173 with execution time 3249 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 174 with execution time 3309 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 175 with execution time 3362 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 176 with execution time 3425 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 177 with execution time 3484 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 178 with execution time 3544 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 179 with execution time 3610 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 180 with execution time 61 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 181 with execution time 127 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 182 with execution time 184 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 183 with execution time 250 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 184 with execution time 304 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 185 with execution time 372 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 186 with execution time 422 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 187 with execution time 481 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 188 with execution time 545 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 189 with execution time 607 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 190 with execution time 670 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 191 with execution time 724 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 192 with execution time 789 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 193 with execution time 849 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 194 with execution time 910 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 195 with execution time 974 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 196 with execution time 1024 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 197 with execution time 1087 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 198 with execution time 1142 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 199 with execution time 1213 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 200 with execution time 1267 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 201 with execution time 1327 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 202 with execution time 1387 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 203 with execution time 1447 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 204 with execution time 1507 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 205 with execution time 1571 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 206 with execution time 1622 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 207 with execution time 1681 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 208 with execution time 1740 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 209 with execution time 1807 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 210 with execution time 1871 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 211 with execution time 1922 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 212 with execution time 1985 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 213 with execution time 2049 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 214 with execution time 2107 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 215 with execution time 2161 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 216 with execution time 2226 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 217 with execution time 2288 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 218 with execution time 2351 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 219 with execution time 2411 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 220 with execution time 2460 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 221 with execution time 2534 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 222 with execution time 2585 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 223 with execution time 2640 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 224 with execution time 2713 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 225 with execution time 2773 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 226 with execution time 2827 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 227 with execution time 2884 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 228 with execution time 2951 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 229 with execution time 3008 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 230 with execution time 3066 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 231 with execution time 3131 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 232 with execution time 3187 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 233 with execution time 3241 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 234 with execution time 3300 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 235 with execution time 3369 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 236 with execution time 3426 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 237 with execution time 3486 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 238 with execution time 3540 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 239 with execution time 3614 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 240 with execution time 66 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 241 with execution time 128 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 242 with execution time 193 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 243 with execution time 244 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 244 with execution time 305 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 245 with execution time 360 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 246 with execution time 433 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 247 with execution time 485 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 248 with execution time 543 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 249 with execution time 613 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 250 with execution time 670 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 251 with execution time 728 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 252 with execution time 792 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 253 with execution time 841 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 254 with execution time 914 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 255 with execution time 967 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 256 with execution time 1023 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 257 with execution time 1082 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 258 with execution time 1142 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 259 with execution time 1207 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 260 with execution time 1268 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 261 with execution time 1323 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 262 with execution time 1386 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 263 with execution time 1453 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 264 with execution time 1501 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 265 with execution time 1573 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 266 with execution time 1628 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 267 with execution time 1693 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 268 with execution time 1743 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 269 with execution time 1807 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 270 with execution time 1874 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 271 with execution time 1933 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 272 with execution time 1982 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 273 with execution time 2053 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 274 with execution time 2107 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 275 with execution time 2162 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 276 with execution time 2224 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 277 with execution time 2293 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 278 with execution time 2346 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 279 with execution time 2410 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 280 with execution time 2460 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 281 with execution time 2524 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 282 with execution time 2587 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 283 with execution time 2647 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 284 with execution time 2701 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 285 with execution time 2767 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 286 with execution time 2832 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 287 with execution time 2892 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 288 with execution time 2951 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 289 with execution time 3000 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 290 with execution time 3072 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 291 with execution time 3124 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 292 with execution time 3181 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 293 with execution time 3249 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 294 with execution time 3300 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 295 with execution time 3362 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 296 with execution time 3428 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 297 with execution time 3487 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 298 with execution time 3554 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 299 with execution time 3610 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 300 with execution time 67 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 301 with execution time 120 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 302 with execution time 184 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 303 with execution time 244 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 304 with execution time 311 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 305 with execution time 370 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 306 with execution time 433 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 307 with execution time 493 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 308 with execution time 546 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 309 with execution time 612 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 310 with execution time 664 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 311 with execution time 726 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 312 with execution time 781 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 313 with execution time 840 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 314 with execution time 913 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 315 with execution time 970 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 316 with execution time 1024 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 317 with execution time 1094 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 318 with execution time 1146 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 319 with execution time 1203 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 320 with execution time 1268 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 321 with execution time 1322 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 322 with execution time 1385 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 323 with execution time 1448 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 324 with execution time 1512 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 325 with execution time 1571 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 326 with execution time 1634 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 327 with execution time 1681 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 328 with execution time 1753 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 329 with execution time 1806 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 330 with execution time 1866 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 331 with execution time 1921 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 332 with execution time 1985 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 333 with execution time 2050 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 334 with execution time 2108 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 335 with execution time 2167 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 336 with execution time 2232 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 337 with execution time 2284 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 338 with execution time 2343 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 339 with execution time 2402 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 340 with execution time 2462 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 341 with execution time 2526 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 342 with execution time 2592 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 343 with execution time 2645 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 344 with execution time 2711 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 345 with execution time 2770 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 346 with execution time 2834 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 347 with execution time 2884 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 348 with execution time 2950 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 349 with execution time 3006 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 350 with execution time 3066 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 351 with execution time 3130 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 352 with execution time 3190 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 353 with execution time 3244 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 354 with execution time 3301 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 355 with execution time 3361 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 356 with execution time 3421 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 357 with execution time 3483 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 358 with execution time 3549 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 359 with execution time 3600 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 360 with execution time 66 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 361 with execution time 121 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 362 with execution time 193 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 363 with execution time 249 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 364 with execution time 309 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 365 with execution time 362 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 366 with execution time 428 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 367 with execution time 480 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 368 with execution time 552 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 369 with execution time 605 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 370 with execution time 673 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 371 with execution time 731 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 372 with execution time 783 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 373 with execution time 852 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 374 with execution time 909 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 375 with execution time 972 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 376 with execution time 1027 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 377 with execution time 1085 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 378 with execution time 1150 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 379 with execution time 1204 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 380 with execution time 1269 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 381 with execution time 1323 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 382 with execution time 1394 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 383 with execution time 1451 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 384 with execution time 1502 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 385 with execution time 1570 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 386 with execution time 1622 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 387 with execution time 1684 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 388 with execution time 1753 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 389 with execution time 1807 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 390 with execution time 1874 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 391 with execution time 1920 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 392 with execution time 1987 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 393 with execution time 2046 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 394 with execution time 2114 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 395 with execution time 2173 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 396 with execution time 2220 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 397 with execution time 2283 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 398 with execution time 2352 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 399 with execution time 2411 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 400 with execution time 2467 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 401 with execution time 2528 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 402 with execution time 2590 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 403 with execution time 2646 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 404 with execution time 2706 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 405 with execution time 2761 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 406 with execution time 2834 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 407 with execution time 2892 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 408 with execution time 2949 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 409 with execution time 3011 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 410 with execution time 3066 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 411 with execution time 3125 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 412 with execution time 3194 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 413 with execution time 3241 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 414 with execution time 3311 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 415 with execution time 3370 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 416 with execution time 3434 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 417 with execution time 3484 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 418 with execution time 3552 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : BasicTasksGenerator, Task 419 with execution time 3601 (s) generated.
+2022/06/12 14:04:10 - simulation time       0 (s) : SimulationManager -  Orchestration algorithm= PROJECT_BPSO -  Architecture= EDGE_ONLY -  number of edge devices= 10
+2022/06/12 14:04:10 - simulation time       0 (s) : SimulationManager - Simulation: 1  , iteration: 1
+2022/06/12 14:04:11 - simulation time   61.06 (s) : 61.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 180 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:11 - simulation time   66.06 (s) : 66.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 360 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:11 - simulation time   66.06 (s) : 66.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 0 assigned to EDGE_DATACENTER vm: 3
+2022/06/12 14:04:11 - simulation time   67.06 (s) : 67.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 240 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:11 - simulation time   68.06 (s) : 68.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 300 assigned to EDGE_DATACENTER vm: 3
+2022/06/12 14:04:11 - simulation time   71.06 (s) : 71.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 120 assigned to EDGE_DATACENTER vm: 2
+2022/06/12 14:04:11 - simulation time   74.06 (s) : 74.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 60 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:11 - simulation time  122.06 (s) : 122.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 1 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:11 - simulation time  128.06 (s) : 128.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 181 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:11 - simulation time  135.06 (s) : 135.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 121 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:11 - simulation time  184.06 (s) : 184.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 182 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:11 - simulation time  186.06 (s) : 186.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 122 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:11 - simulation time  187.06 (s) : 187.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 2 assigned to EDGE_DATACENTER vm: 3
+2022/06/12 14:04:11 - simulation time  240.06 (s) : 240.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 3 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:11 - simulation time  244.06 (s) : 244.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 123 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:11 - simulation time  251.06 (s) : 251.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 183 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:11 - simulation time  304.06 (s) : 304.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 4 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:11 - simulation time  305.06 (s) : 305.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 184 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:11 - simulation time  307.06 (s) : 307.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 124 assigned to EDGE_DATACENTER vm: 3
+2022/06/12 14:04:11 - simulation time  368.06 (s) : 368.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 125 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:11 - simulation time  369.06 (s) : 369.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 5 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:11 - simulation time  421.06 (s) : 421.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 6 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:11 - simulation time  435.06 (s) : 435.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 126 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:11 - simulation time  485.06 (s) : 485.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 7 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:11 - simulation time  489.06 (s) : 489.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 127 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:11 - simulation time  546.06 (s) : 546.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 128 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:11 - simulation time  551.06 (s) : 551.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 8 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:11 - simulation time  602.06 (s) : 602.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 129 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:11 - simulation time  612.06 (s) : 612.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 9 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:11 - simulation time  666.06 (s) : 666.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 10 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:11 - simulation time  671.06 (s) : 671.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 130 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:11 - simulation time  672.06 (s) : 672.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 190 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:11 - simulation time  723.06 (s) : 723.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 11 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:11 - simulation time  724.06 (s) : 724.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 191 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:11 - simulation time  728.06 (s) : 728.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 131 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:11 - simulation time  788.06 (s) : 788.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 132 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:11 - simulation time  789.06 (s) : 789.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 192 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:11 - simulation time  790.06 (s) : 790.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 12 assigned to EDGE_DATACENTER vm: 3
+2022/06/12 14:04:11 - simulation time  844.06 (s) : 844.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 133 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:11 - simulation time  849.06 (s) : 849.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 13 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:11 - simulation time  850.06 (s) : 850.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 193 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:11 - simulation time  900.06 (s) : 900.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 134 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:11 - simulation time  905.06 (s) : 905.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 14 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:11 - simulation time  911.06 (s) : 911.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 194 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:11 - simulation time  966.06 (s) : 966.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 135 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:11 - simulation time  968.06 (s) : 968.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 15 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:11 - simulation time  974.06 (s) : 974.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 195 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:11 - simulation time 1024.06 (s) : 1024.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 196 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:11 - simulation time 1033.06 (s) : 1033.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 16 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:11 - simulation time 1034.06 (s) : 1034.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 136 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 1083.06 (s) : 1083.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 137 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 1088.06 (s) : 1088.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 197 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 1090.06 (s) : 1090.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 17 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 1143.06 (s) : 1143.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 198 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 1146.06 (s) : 1146.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 138 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 1148.06 (s) : 1148.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 18 assigned to EDGE_DATACENTER vm: 3
+2022/06/12 14:04:12 - simulation time 1201.06 (s) : 1201.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 139 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 1202.06 (s) : 1202.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 19 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 1213.06 (s) : 1213.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 199 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 1267.06 (s) : 1267.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 200 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 1269.06 (s) : 1269.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 20 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 1272.06 (s) : 1272.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 140 assigned to EDGE_DATACENTER vm: 3
+2022/06/12 14:04:12 - simulation time 1328.06 (s) : 1328.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 201 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 1328.06 (s) : 1328.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 21 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 1330.06 (s) : 1330.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 141 assigned to EDGE_DATACENTER vm: 3
+2022/06/12 14:04:12 - simulation time 1381.06 (s) : 1381.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 142 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 1388.06 (s) : 1388.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 202 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 1389.06 (s) : 1389.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 22 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 1440.06 (s) : 1440.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 23 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 1442.06 (s) : 1442.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 143 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 1447.06 (s) : 1447.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 203 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 1508.06 (s) : 1508.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 204 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 1509.06 (s) : 1509.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 24 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 1511.06 (s) : 1511.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 144 assigned to EDGE_DATACENTER vm: 3
+2022/06/12 14:04:12 - simulation time 1560.06 (s) : 1560.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 25 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 1566.06 (s) : 1566.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 145 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 1573.06 (s) : 1573.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 205 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 1623.06 (s) : 1623.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 206 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 1628.06 (s) : 1628.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 26 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 1628.06 (s) : 1628.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 146 assigned to EDGE_DATACENTER vm: 3
+2022/06/12 14:04:12 - simulation time 1682.06 (s) : 1682.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 207 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 1687.06 (s) : 1687.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 147 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 1690.06 (s) : 1690.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 27 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 1740.06 (s) : 1740.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 208 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 1748.06 (s) : 1748.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 148 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 1749.06 (s) : 1749.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 28 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 1805.06 (s) : 1805.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 29 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 1807.06 (s) : 1807.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 209 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 1810.06 (s) : 1810.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 149 assigned to EDGE_DATACENTER vm: 3
+2022/06/12 14:04:12 - simulation time 1860.06 (s) : 1860.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 30 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 1867.06 (s) : 1867.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 150 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 1872.06 (s) : 1872.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 210 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 1922.06 (s) : 1922.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 211 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 1924.06 (s) : 1924.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 31 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 1925.06 (s) : 1925.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 151 assigned to EDGE_DATACENTER vm: 3
+2022/06/12 14:04:12 - simulation time 1986.06 (s) : 1986.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 212 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 1992.06 (s) : 1992.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 32 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 1993.06 (s) : 1993.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 152 assigned to EDGE_DATACENTER vm: 3
+2022/06/12 14:04:12 - simulation time 2044.06 (s) : 2044.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 153 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 2049.06 (s) : 2049.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 213 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 2050.06 (s) : 2050.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 33 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 2103.06 (s) : 2103.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 154 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 2107.06 (s) : 2107.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 214 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 2110.06 (s) : 2110.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 34 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 2161.06 (s) : 2161.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 215 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 2162.06 (s) : 2162.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 35 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 2175.06 (s) : 2175.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 155 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 2226.06 (s) : 2226.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 216 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 2227.06 (s) : 2227.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 156 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 2234.06 (s) : 2234.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 36 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 2286.06 (s) : 2286.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 37 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 2288.06 (s) : 2288.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 217 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 2291.06 (s) : 2291.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 157 assigned to EDGE_DATACENTER vm: 3
+2022/06/12 14:04:12 - simulation time 2341.06 (s) : 2341.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 38 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 2343.06 (s) : 2343.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 158 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 2352.06 (s) : 2352.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 218 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 2406.06 (s) : 2406.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 39 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 2412.06 (s) : 2412.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 219 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 2413.06 (s) : 2413.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 159 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 2461.06 (s) : 2461.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 220 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 2463.06 (s) : 2463.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 160 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 2474.06 (s) : 2474.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 40 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 2525.06 (s) : 2525.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 41 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 2533.06 (s) : 2533.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 161 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 2534.06 (s) : 2534.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 221 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 2584.06 (s) : 2584.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 162 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 2585.06 (s) : 2585.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 222 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 2593.06 (s) : 2593.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 42 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 2641.06 (s) : 2641.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 223 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 2646.06 (s) : 2646.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 43 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 2654.06 (s) : 2654.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 163 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 2703.06 (s) : 2703.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 164 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 2704.06 (s) : 2704.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 44 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:12 - simulation time 2713.06 (s) : 2713.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 224 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:13 - simulation time 2768.06 (s) : 2768.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 45 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:13 - simulation time 2769.06 (s) : 2769.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 165 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:13 - simulation time 2773.06 (s) : 2773.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 225 assigned to EDGE_DATACENTER vm: 3
+2022/06/12 14:04:13 - simulation time 2821.06 (s) : 2821.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 46 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:13 - simulation time 2824.06 (s) : 2824.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 166 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:13 - simulation time 2827.06 (s) : 2827.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 226 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:13 - simulation time 2885.06 (s) : 2885.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 227 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:13 - simulation time 2887.06 (s) : 2887.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 47 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:13 - simulation time 2888.06 (s) : 2888.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 167 assigned to EDGE_DATACENTER vm: 3
+2022/06/12 14:04:13 - simulation time 2947.06 (s) : 2947.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 48 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:13 - simulation time 2948.06 (s) : 2948.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 168 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:13 - simulation time 2951.06 (s) : 2951.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 228 assigned to EDGE_DATACENTER vm: 3
+2022/06/12 14:04:13 - simulation time 3007.06 (s) : 3007.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 169 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:13 - simulation time 3009.06 (s) : 3009.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 229 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:13 - simulation time 3010.06 (s) : 3010.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 49 assigned to EDGE_DATACENTER vm: 3
+2022/06/12 14:04:13 - simulation time 3063.06 (s) : 3063.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 170 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:13 - simulation time 3066.06 (s) : 3066.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 230 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:13 - simulation time 3068.06 (s) : 3068.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 50 assigned to EDGE_DATACENTER vm: 3
+2022/06/12 14:04:13 - simulation time 3123.06 (s) : 3123.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 171 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:13 - simulation time 3131.06 (s) : 3131.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 51 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:13 - simulation time 3132.06 (s) : 3132.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 231 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:13 - simulation time 3183.06 (s) : 3183.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 52 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:13 - simulation time 3187.06 (s) : 3187.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 172 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:13 - simulation time 3188.06 (s) : 3188.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 232 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:13 - simulation time 3242.06 (s) : 3242.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 233 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:13 - simulation time 3245.06 (s) : 3245.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 53 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:13 - simulation time 3249.06 (s) : 3249.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 173 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:13 - simulation time 3301.06 (s) : 3301.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 234 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:13 - simulation time 3308.06 (s) : 3308.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 54 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:13 - simulation time 3309.06 (s) : 3309.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 174 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:13 - simulation time 3363.06 (s) : 3363.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 175 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:13 - simulation time 3367.06 (s) : 3367.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 55 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:13 - simulation time 3370.06 (s) : 3370.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 235 assigned to EDGE_DATACENTER vm: 3
+2022/06/12 14:04:13 - simulation time 3425.06 (s) : 3425.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 176 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:13 - simulation time 3427.06 (s) : 3427.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 236 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:13 - simulation time 3434.06 (s) : 3434.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 56 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:13 - simulation time 3484.06 (s) : 3484.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 57 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:13 - simulation time 3484.06 (s) : 3484.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 177 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:13 - simulation time 3487.06 (s) : 3487.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 237 assigned to EDGE_DATACENTER vm: 3
+2022/06/12 14:04:13 - simulation time 3540.06 (s) : 3540.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 238 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:13 - simulation time 3545.06 (s) : 3545.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 178 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:13 - simulation time 3545.06 (s) : 3545.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 58 assigned to EDGE_DATACENTER vm: 3
+2022/06/12 14:04:13 - simulation time 3611.06 (s) : 3611.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 179 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:13 - simulation time 3613.06 (s) : 3613.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 59 assigned to EDGE_DATACENTER vm: 1
+2022/06/12 14:04:13 - simulation time 3615.06 (s) : 3615.06: class com.mechalikh.pureedgesim.tasksorchestration.DefaultOrchestrator Task: 239 assigned to EDGE_DATACENTER vm: 3
+2022/06/12 14:04:16 - simulation time    3630 (s) : SimLog - Printing iteration output...
+2022/06/12 14:04:16 - simulation time    3630 (s) : ------------------------------------------------------- OUTPUT -------------------------------------------------------
+2022/06/12 14:04:16 - simulation time    3630 (s) : 
+2022/06/12 14:04:16 - simulation time    3630 (s) : Tasks not sent because device died (low energy)                         :                   0 % (0 tasks)
+2022/06/12 14:04:16 - simulation time    3630 (s) : Tasks sent from edge devices                                            :                 100 % (420 among 420 generated tasks)
+2022/06/12 14:04:16 - simulation time    3630 (s) : -------------------------------------All values below are based on the sent tasks-------------------------------------
+2022/06/12 14:04:16 - simulation time    3630 (s) : Total tasks execution time                                              :            380.3536 seconds
+2022/06/12 14:04:16 - simulation time    3630 (s) : Average task execution time                                             :              0.9056 seconds
+2022/06/12 14:04:16 - simulation time    3630 (s) : Total waiting time (from submitting the tasks to when execution started):                   0 seconds
+2022/06/12 14:04:16 - simulation time    3630 (s) : Average task waiting time                                               :                   0 seconds
+2022/06/12 14:04:16 - simulation time    3630 (s) : Tasks successfully executed                                             :                 100 % (420 among 420 sent tasks)
+2022/06/12 14:04:16 - simulation time    3630 (s) : Tasks failures
+2022/06/12 14:04:16 - simulation time    3630 (s) :                               Not executed due to resource unavailablity:                   0 % (0 tasks)
+2022/06/12 14:04:16 - simulation time    3630 (s) :                                    Executed but failed due to high delay:                   0 % (0 tasks from 420 successfully sent tasks)
+2022/06/12 14:04:16 - simulation time    3630 (s) :                Tasks execution results not returned due to devices death:                   0 % (0 tasks)
+2022/06/12 14:04:16 - simulation time    3630 (s) :             Tasks execution results not returned due to devices mobility:                   0 % (0 tasks)
+2022/06/12 14:04:16 - simulation time    3630 (s) : Tasks executed on each level                                            :Cloud=             0 tasks (where 0 were successfully executed )
+2022/06/12 14:04:16 - simulation time    3630 (s) :                                                                           Edge=           420 tasks (where 420 were successfully executed )
+2022/06/12 14:04:16 - simulation time    3630 (s) :                                                                           Mist=             0 tasks (where 0 were successfully executed )
+2022/06/12 14:04:16 - simulation time    3630 (s) : Network usage                                                           :             38.8637 seconds (The total traffic: 1124.4 (MBytes) )
+2022/06/12 14:04:16 - simulation time    3630 (s) :                                                                            Wan=       37.9615 seconds (97.6784 % of total usage, WAN used when downloading containers=0 % of WAN usage )
+2022/06/12 14:04:16 - simulation time    3630 (s) :                                                                            Man=        0.9023 seconds (2.3216 % of total usage, MAN used when downloading containers=0 % of MAN usage )
+2022/06/12 14:04:16 - simulation time    3630 (s) :                                                                            Lan=             0 seconds (0 % of total usage, LAN used when downloading containers=NaN % of LAN usage )
+2022/06/12 14:04:16 - simulation time    3630 (s) : Average transfer speed                                                  :            418.0248 Mbps  
+2022/06/12 14:04:16 - simulation time    3630 (s) : Average CPU utilization                                                 :              0.0879 %
+2022/06/12 14:04:16 - simulation time    3630 (s) : Average CPU utilization per level                                       :Cloud=             0 %
+2022/06/12 14:04:16 - simulation time    3630 (s) :                                                                           Edge=          0.41 %
+2022/06/12 14:04:16 - simulation time    3630 (s) :                                                                           Mist=             0 %
+2022/06/12 14:04:16 - simulation time    3630 (s) : Energy consumption                                                      :            167.0974 Wh (Average: 11.9355 Wh/data center(or device))
+2022/06/12 14:04:16 - simulation time    3630 (s) :                                                                         :                        (Average: 0.3979 Wh/task)
+2022/06/12 14:04:16 - simulation time    3630 (s) : Energy Consumption per level                                            :Cloud=             0 Wh (Average: 0 Wh/data center)
+2022/06/12 14:04:16 - simulation time    3630 (s) :                                                                           Edge=      161.8154 Wh (Average: 53.9385 Wh/data center)
+2022/06/12 14:04:16 - simulation time    3630 (s) :                                                                           Mist=        5.2821 Wh (Average: 0.5282 Wh/edge device)
+2022/06/12 14:04:16 - simulation time    3630 (s) : Energy Consumption per network                                          :  WAN=        7.5252 Wh
+2022/06/12 14:04:16 - simulation time    3630 (s) :                                                                            MAN=             0 Wh 
+2022/06/12 14:04:16 - simulation time    3630 (s) :                                                                            LAN=             0 Wh 
+2022/06/12 14:04:16 - simulation time    3630 (s) : Energy Consumption per technology                                       : WiFi=        0.2328 Wh
+2022/06/12 14:04:16 - simulation time    3630 (s) :                                                                       Cellular=        7.2341 Wh 
+2022/06/12 14:04:16 - simulation time    3630 (s) :                                                                       Ethernet=             0 Wh 
+2022/06/12 14:04:16 - simulation time    3630 (s) : Dead edge devices due to battery drain                                  :                   0 devices (Among 5 devices with batteries (0 %))
+2022/06/12 14:04:16 - simulation time    3630 (s) : Average remaining power (devices with batteries that are still alive)   :             32.9659 Wh (Average: 98.3616 %)

@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<edge_datacenters>
+	<datacenter name="dc1">
+		<periphery>true</periphery>
+		<idleConsumption>100</idleConsumption>
+		<maxConsumption>150</maxConsumption>
+		<isOrchestrator>false</isOrchestrator>
+		<location>
+			<x_pos>500</x_pos>
+			<y_pos>500</y_pos>
+		</location>
+		<cores>10</cores>
+		<mips>40000</mips>
+		<ram>16000</ram>
+		<storage>200000</storage>
+	</datacenter>
+
+	<datacenter name="dc2">
+		<periphery>true</periphery>
+		<idleConsumption>100</idleConsumption>
+		<maxConsumption>150</maxConsumption>
+		<isOrchestrator>false</isOrchestrator>
+		<location>
+			<x_pos>500</x_pos>
+			<y_pos>1500</y_pos>
+		</location>
+		<cores>10</cores>
+		<mips>40000</mips>
+		<ram>16000</ram>
+		<storage>200000</storage>
+	</datacenter>
+</edge_datacenters>
