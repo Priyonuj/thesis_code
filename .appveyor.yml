@@ -1,0 +1,21 @@
+image: Visual Studio 2019
+
+version: '{build}'
+stack: jdk 12
+branches:
+  only:
+    - master
+
+init:
+  - git config --global core.autocrlf true
+  
+build_script:
+  - RD /S /Q "C:\projects\pureedgesim\pureedgesim\examples\"
+  - mvn clean package --batch-mode -DskipTest
+  
+test_script:
+  - mvn clean verify --batch-mode
+
+cache:
+  - C:\maven\
+  - C:\Users\appveyor\.m2

@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<edge_datacenters>
+
+	<datacenter name="dc1">
+		<periphery>true</periphery>
+		<idleConsumption>50</idleConsumption>
+		<maxConsumption>150</maxConsumption>
+		<isOrchestrator>false</isOrchestrator>
+		<location>
+			<x_pos>100</x_pos>
+			<y_pos>100</y_pos>
+		</location>
+		<cores>10</cores>
+		<mips>30000</mips>
+		<ram>16000</ram>
+		<storage>400000</storage>
+	</datacenter>
+
+	<datacenter name="dc2">
+		<periphery>true</periphery>
+		<idleConsumption>50</idleConsumption>
+		<maxConsumption>150</maxConsumption>
+		<isOrchestrator>false</isOrchestrator>
+		<location>
+			<x_pos>100</x_pos>
+			<y_pos>150</y_pos>
+		</location>
+		<cores>2</cores>
+		<mips>50000</mips>
+		<ram>8000</ram>
+		<storage>600000</storage>
+	</datacenter>
+
+	<datacenter name="dc3">
+		<periphery>true</periphery>
+		<idleConsumption>50</idleConsumption>
+		<maxConsumption>150</maxConsumption>
+		<isOrchestrator>false</isOrchestrator>
+		<location>
+			<x_pos>150</x_pos>
+			<y_pos>100</y_pos>
+		</location>
+		<cores>5</cores>
+		<mips>70000</mips>
+		<ram>8000</ram>
+		<storage>500000</storage>
+	</datacenter>
+
+
+	<network_links>
+		<!-- To create a topology add links here. See example 10 -->
+		<link>
+			<from>dc1</from>
+			<to>dc2</to>
+		</link>
+		<link>
+			<from>dc1</from>
+			<to>dc3</to>
+		</link>
+
+
+		<link>
+			<from>dc2</from>
+			<to>dc1</to>
+		</link>
+		<link>
+			<from>dc2</from>
+			<to>dc3</to>
+		</link>
+
+
+		<link>
+			<from>dc3</from>
+			<to>dc1</to>
+		</link>
+		<link>
+			<from>dc3</from>
+			<to>dc2</to>
+		</link>
+
+
+	</network_links>
+</edge_datacenters>
